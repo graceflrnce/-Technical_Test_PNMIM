@@ -12,4 +12,11 @@ maka, containLetter("ieg","investment") menghasilkan FALSE karena huruf 'g' tida
 #pada TASK 2
 penjelasan:
 seseorang melakukan investasi dengan melihat timestamp keberapa NAB yang akan dia pakai. apabilan timestamp/pengecekkan waktu beli lebih dari jam 13.00 WIB maka menggunakan NAB update, apabila kurang dari jam 13.00 WIB maka memakai NAB jam 20.00 WIB
-maka Unit Pe
+maka Unit Penyertaan pada nasabah A adalah 2.000.000 / 1203,1 = 1662
+pada nasabah B adalah 10.000.000 / 885,12 = 11297
+pada nasabah C adalah 3.500.000 / 894,29 = 3913
+
+#Pada TASK 3 
+Penjelasan :
+program menggunakan Javascript, Bootstrap, HTML, dan CSS
+web sudah Responsive
